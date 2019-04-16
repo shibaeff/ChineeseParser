@@ -1,0 +1,9 @@
+scrapy
+scrapy-fake-useragent
+scrapy_proxies
+scrapy-proxies-tool
+requests
+scrapy-rotating-proxies
+scrapy-html-storage
+beautifulsoup4
+python-dotenv
