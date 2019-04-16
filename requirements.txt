@@ -7,3 +7,4 @@ scrapy-rotating-proxies
 scrapy-html-storage
 beautifulsoup4
 python-dotenv
+flask
